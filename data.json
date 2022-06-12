@@ -1,0 +1,30 @@
+{
+    "house1"  : [ 
+    "assets/house1/house1.png",                
+    "assets/house1/kitchen2.jpeg" ,          
+    "assets/house1/living_room.jpeg",
+    "assets/house1/bathroom.jpeg" ,          
+    "assets/house1/kitchen.jpeg",            
+    "assets/house1/kitchen3.jpeg",           
+    "assets/house1/master_bedroom.jpeg",
+    "assets/house1/backyard.jpeg"     
+    ], 
+    "house2": [
+        "assets/house2/house2.jpeg",        
+        "assets/house2/lr_diningroomFoyer.jpeg", 
+        "assets/house2/kitchen.jpeg",            
+        "assets/house2/livingroom1.jpeg",        
+        "assets/house2/livingroom3.jpeg",    
+        "assets/house2/livingroom2.jpeg",        
+        "assets/house2/mb1.jpeg",
+        "assets/house2/mb2.jpeg",
+        "assets/house2/masterBath.jpeg",
+        "assets/house2/bathroom.jpeg",           
+        "assets/house2/bathroom2.jpeg",          
+        "assets/house2/basement2.jpeg",          
+        "assets/house2/basement.jpeg",                
+        "assets/house2/backyard.jpeg"       
+    ]
+
+}
+
